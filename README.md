@@ -2,12 +2,12 @@
 Simple Flashcard app (Focused on Client-Server API functionality, not UI)
 React.js Frontend, and Node.js (Express.js) backend. 
 
-Setup:
+<h> Setup: </h>
 `cd` into the `/server` and `/client` directory separately and run `npm install` on each.
 
 Afterwards, run `npm run start` on both `client` and `server`, and the project will open up in http://localhost:8080/
 
-Usage:
+<h> Usage: </h>
 Click `New Flashcard` to create a new set of flashcards. Enter the name of the quiz, and enter flashcards in the following format:
 [Front text]|[Back text]
 
