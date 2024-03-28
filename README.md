@@ -14,9 +14,15 @@ Click `New Flashcard` to create a new set of flashcards. Enter the name of the q
 For example, if I wanted to make a math quiz, I could enter something like this:
 <img width="447" alt="image" src="https://github.com/smallboar/Flashcard-App/assets/56139007/0f9ab1f8-d011-4800-8563-75e7d7e5374b">
 
-An error will be displayed if there is no name/no cards/bad formatting for the cards within "Options", and you will not be able to save the quiz.
+An error will be displayed if there is no name/no cards/bad formatting for the cards within "Options", and you will not be able to save the quiz to the server.
+
+<img width="444" alt="image" src="https://github.com/smallboar/Flashcard-App/assets/56139007/ead4a1a3-acff-431b-aa72-9251c58a8e14">
 
 
 Click the hyperlinked flashcard under `List` to take the quiz. Click `Flip` to flip the flashcard to see the back, and select `Correct` or `Incorrect` based on how you did. If you want to practice again, click `Shuffle` at any time to randomly shuffle the flashcards, and resetting your `Correct/Incorrect` Score
+
+<img width="1016" alt="image" src="https://github.com/smallboar/Flashcard-App/assets/56139007/920b3a07-eba4-4f82-b73a-9918c0373b1f">
+
+After you finish the test, you enter your name to save your quiz result to the server.
 
 
